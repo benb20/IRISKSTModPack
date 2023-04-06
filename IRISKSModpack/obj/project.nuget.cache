@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4W9nsHZSaDhFtXwJ0r6acXxAc37PyYjryxcGZIp5xLzKjPDEYcmKqca1tVDgqga1FmuWTXEaf/0QHX3jdW0DZA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\dator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\IRISKSModpack\\IRISKSModpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dator\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\dator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\dator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\dator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

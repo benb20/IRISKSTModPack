@@ -1,0 +1,3 @@
+displayName = Modpackv0.1
+author = IRISKS
+version = 0.1
